@@ -28,10 +28,14 @@ RUN yum -y update \
     openssh-server \
     procps-ng  \
     rsync \
- && yum -y install postgresql10-server postgresql10-contrib postgresql10 \
+ && yum -y install postgresql10-server postgresql10-contrib postgresql10 postgresql10-devel \
     pgaudit12_10 \
-    pgbackrest \
- && yum -y clean all
+    pgbackrest
+
+RUN rpm -Uvh https://timescalereleases.blob.core.windows.net/rpm/timescaledb-0.11.0-postgresql-10-0.x86_64.rpm
+RUN yum -y install timescaledb
+RUN yum -y clean all
+RUN rm -rf /var/cache/yum
 
 ENV PGROOT="/usr/pgsql-${PGVERSION}"
 
