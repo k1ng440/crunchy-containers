@@ -17,7 +17,7 @@ package dbaapi
 
 import (
 	"bytes"
-	"github.com/crunchydata/crunchy-containers/vacuumapi"
+	"github.com/k1ng440/crunchy-containers/vacuumapi"
 	"io/ioutil"
 	"log"
 	"os"

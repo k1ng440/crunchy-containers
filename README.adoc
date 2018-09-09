@@ -16,7 +16,7 @@ please view the
 link:https://crunchydata.github.io/crunchy-containers/contributing/[Contributing Guidelines].
 
 Warning: The master branch is considered unstable. Please consult the
-link:https://github.com/CrunchyData/crunchy-containers/releases[tagged release]
+link:https://github.com/k1ng440/crunchy-containers/releases[tagged release]
 currently deployed in your environment.
 
 [link=https://crunchydata.github.io/crunchy-containers/]

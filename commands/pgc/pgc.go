@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/crunchydata/crunchy-containers/commands/pgc/cmd"
+	"github.com/k1ng440/crunchy-containers/commands/pgc/cmd"
 	"os"
 )
 

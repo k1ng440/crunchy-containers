@@ -14,10 +14,10 @@
             "iconClass": "icon-postgresql",
             "tags": "database,postgresql",
             "openshift.io/display-name": "Crunchy PostgreSQL with pgBadger",
-            "openshift.io/documentation-url": "https://github.com/CrunchyData/crunchy-containers/tree/master/docs",
+            "openshift.io/documentation-url": "https://github.com/k1ng440/crunchy-containers/tree/master/docs",
             "openshift.io/long-description": "Crunchy PostgreSQL Database with pgBadger, a log analyzer built for speed with fully detailed reports from your PostgreSQL log file.",
             "openshift.io/provider-display-name": "Crunchy Data",
-            "openshift.io/support-url": "https://github.com/CrunchyData/crunchy-containers"
+            "openshift.io/support-url": "https://github.com/k1ng440/crunchy-containers"
         }
     },
     "objects": [

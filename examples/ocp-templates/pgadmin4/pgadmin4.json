@@ -11,10 +11,10 @@
             "iconClass": "icon-postgresql",
             "tags": "database,postgresql",
             "openshift.io/display-name": "Crunchy pgAdmin4",
-            "openshift.io/documentation-url": "https://github.com/CrunchyData/crunchy-containers/tree/master/docs",
+            "openshift.io/documentation-url": "https://github.com/k1ng440/crunchy-containers/tree/master/docs",
             "openshift.io/long-description": "This template provides a standalone pgAdmin4 instance.  Crunchy pgAdmin4 provides a powerful graphical interface for interacting with PostgreSQL databases.",
             "openshift.io/provider-display-name": "Crunchy Data",
-            "openshift.io/support-url": "https://github.com/CrunchyData/crunchy-containers"
+            "openshift.io/support-url": "https://github.com/k1ng440/crunchy-containers"
         }
     },
     "objects": [

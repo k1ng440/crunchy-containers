@@ -14,7 +14,7 @@ $ helm install statefulset --name statefulset
 Introduction
 ------------
 
-This is an example of running the Crunchy PostgreSQL containers using the Helm project! More examples of the Crunchy Containers for PostgreSQL can be found at the [GitHub repository](https://github.com/CrunchyData/crunchy-containers).
+This is an example of running the Crunchy PostgreSQL containers using the Helm project! More examples of the Crunchy Containers for PostgreSQL can be found at the [GitHub repository](https://github.com/k1ng440/crunchy-containers).
 
 This example deploys a statefulset named *pgset*.  The statefulset
 is a new feature in Kubernetes as of version 1.5.  Statefulsets have

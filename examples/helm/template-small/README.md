@@ -14,7 +14,7 @@ $ helm install template-small --name template-small
 Introduction
 ------------
 
-This is an example of running the Crunchy PostgreSQL containers using the Helm project! More examples of the Crunchy Containers for PostgreSQL can be found at the [GitHub repository](https://github.com/CrunchyData/crunchy-containers).
+This is an example of running the Crunchy PostgreSQL containers using the Helm project! More examples of the Crunchy Containers for PostgreSQL can be found at the [GitHub repository](https://github.com/k1ng440/crunchy-containers).
 
 There are 3 different profiles of PostgreSQL deployment configurations - template-small, template-medium, and template-large. These templates are representative of what can be built for a typical user wanting to implement a self-service database-as-a-service.
 

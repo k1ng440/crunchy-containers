@@ -14,7 +14,7 @@ $ helm install custom-config --name custom-config
 Introduction
 ------------
 
-This is an example of running the Crunchy PostgreSQL containers using the Helm project! More examples of the Crunchy Containers for PostgreSQL can be found at the [GitHub repository](https://github.com/CrunchyData/crunchy-containers).
+This is an example of running the Crunchy PostgreSQL containers using the Helm project! More examples of the Crunchy Containers for PostgreSQL can be found at the [GitHub repository](https://github.com/k1ng440/crunchy-containers).
 
 This example will create the following in your Kubernetes cluster:
 

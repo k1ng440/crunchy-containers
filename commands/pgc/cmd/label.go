@@ -20,7 +20,7 @@ import (
 	"strings"
 	"k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
-	"github.com/crunchydata/crunchy-containers/commands/kubeapi"
+	"github.com/k1ng440/crunchy-containers/commands/kubeapi"
 
 )
 

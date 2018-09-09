@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	pg "github.com/crunchydata/crunchy-containers/tools/test-harness/data"
-	"github.com/crunchydata/crunchy-containers/tools/test-harness/kubeapi"
-	"github.com/crunchydata/crunchy-containers/tools/test-harness/runner"
+	pg "github.com/k1ng440/crunchy-containers/tools/test-harness/data"
+	"github.com/k1ng440/crunchy-containers/tools/test-harness/kubeapi"
+	"github.com/k1ng440/crunchy-containers/tools/test-harness/runner"
 )
 
 const timeout = (time.Second * 120)

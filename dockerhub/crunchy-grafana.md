@@ -1,6 +1,6 @@
 # Crunchy Grafana
 
-![](https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/images/crunchy_logo.png)
+![](https://raw.githubusercontent.com/k1ng440/crunchy-containers/master/images/crunchy_logo.png)
 
 [Grafana](https://grafana.com/) is a platform which can graph scraped and collected metrics and visualize information in various ways. It is extremely flexible with a powerful query and transformation language, producing beautiful and easily understandable graphics to analyze and monitor your data.
 
@@ -10,4 +10,4 @@ See the [official documentation](https://crunchydata.github.io/crunchy-container
 
 ## Examples
 
-For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/CrunchyData/crunchy-containers/tree/master/examples/docker).
+For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/k1ng440/crunchy-containers/tree/master/examples/docker).

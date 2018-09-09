@@ -24,8 +24,8 @@ import (
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"
 
-	"github.com/crunchydata/crunchy-containers/sim/pkg/config"
-	"github.com/crunchydata/crunchy-containers/sim/pkg/sim"
+	"github.com/k1ng440/crunchy-containers/sim/pkg/config"
+	"github.com/k1ng440/crunchy-containers/sim/pkg/sim"
 )
 
 var (

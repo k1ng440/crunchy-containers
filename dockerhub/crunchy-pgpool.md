@@ -1,6 +1,6 @@
 # Crunchy pgPool
 
-![](https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/images/crunchy_logo.png)
+![](https://raw.githubusercontent.com/k1ng440/crunchy-containers/master/images/crunchy_logo.png)
 
 The crunchy-pgpool container executes the [pgPool II](http://www.pgpool.net/mediawiki/index.php/Main_Page) utility. pgPool can be used to provide a smart PostgreSQL-aware proxy to a PostgreSQL cluster, both primary and replica, so that applications only have to work with a single database connection.
 
@@ -10,4 +10,4 @@ See the [official documentation](https://crunchydata.github.io/crunchy-container
 
 ## Examples
 
-For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/CrunchyData/crunchy-containers/tree/master/examples/docker).
+For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/k1ng440/crunchy-containers/tree/master/examples/docker).

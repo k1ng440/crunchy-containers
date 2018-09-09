@@ -9,9 +9,9 @@ Latest Release: 2.1.0 {docdate}
 
 == Getting Started
 
-Welcome! Thank you for your interest in contributing. Before submitting a new link:https://github.com/CrunchyData/crunchy-containers/issues/new[issue]
-or link:https://github.com/CrunchyData/crunchy-containers/pulls[pull request] to the link:https://github.com/CrunchyData/crunchy-containers/[Crunchy
-Container Suite] project on GitHub, *please review any open or closed issues* link:https://github.com/crunchydata/crunchy-containers/issues[here]
+Welcome! Thank you for your interest in contributing. Before submitting a new link:https://github.com/k1ng440/crunchy-containers/issues/new[issue]
+or link:https://github.com/k1ng440/crunchy-containers/pulls[pull request] to the link:https://github.com/k1ng440/crunchy-containers/[Crunchy
+Container Suite] project on GitHub, *please review any open or closed issues* link:https://github.com/k1ng440/crunchy-containers/issues[here]
 in addition to any existing open pull requests.
 
 == Documentation

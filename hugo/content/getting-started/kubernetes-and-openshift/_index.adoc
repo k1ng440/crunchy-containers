@@ -1528,7 +1528,7 @@ psql -h primary -U postgres postgres
 ==== Helm
 
 This example resides under the `$CCPROOT/examples/helm` directory. View the README to run this
-example using Helm link:https://github.com/CrunchyData/crunchy-containers/blob/master/examples/helm/primary/README.md[here].
+example using Helm link:https://github.com/k1ng440/crunchy-containers/blob/master/examples/helm/primary/README.md[here].
 
 === PostgreSQL Deployment
 
@@ -1716,7 +1716,7 @@ psql -h primary-dc -U postgres postgres -c 'table pg_stat_replication'
 ==== Helm
 
 This example resides under the `$CCPROOT/examples/helm` directory. View the README to run this example
-using Helm link:https://github.com/CrunchyData/crunchy-containers/blob/master/examples/helm/primary-replica/README.md[here].
+using Helm link:https://github.com/k1ng440/crunchy-containers/blob/master/examples/helm/primary-replica/README.md[here].
 
 === Synchronous Replication
 
@@ -1847,7 +1847,7 @@ ${CCP_CLI} scale --replicas=3 statefulset statefulset
 ==== Helm
 
 This example resides under the `$CCPROOT/examples/helm` directory. View the README to
-run this example using Helm link:https://github.com/CrunchyData/crunchy-containers/blob/master/examples/helm/statefulset/README.md[here].
+run this example using Helm link:https://github.com/k1ng440/crunchy-containers/blob/master/examples/helm/statefulset/README.md[here].
 
 === Geospatial (PostGIS)
 
@@ -2276,7 +2276,7 @@ This user is created by setting the `PGMONITOR_PASSWORD` environment variable on
 PostgreSQL container.
 
 Discovering pods requires a cluster role service account.  See the
-link:https://github.com/crunchydata/crunchy-containers/blob/master/examples/kube/metrics/metrics.json[Kubernetes and OpenShift]
+link:https://github.com/k1ng440/crunchy-containers/blob/master/examples/kube/metrics/metrics.json[Kubernetes and OpenShift]
 metrics JSON file for more details.
 
 For Docker environments the collect hostname must be specified as an environment

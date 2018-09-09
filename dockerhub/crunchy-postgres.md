@@ -1,6 +1,6 @@
 # Crunchy Postgres
 
-![](https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/images/crunchy_logo.png)
+![](https://raw.githubusercontent.com/k1ng440/crunchy-containers/master/images/crunchy_logo.png)
 
 [PostgreSQL](https://www.postgresql.org/) (pronounced “post-gress-Q-L”) is an open source, ACID compliant, relational database management system (RDBMS) developed by a worldwide team of volunteers. The crunchy-postgres container image is unmodified, open source PostgreSQL packaged and maintained by professionals.
 
@@ -10,4 +10,4 @@ See the [official documentation](https://crunchydata.github.io/crunchy-container
 
 ## Examples
 
-For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/CrunchyData/crunchy-containers/tree/master/examples/docker).
+For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/k1ng440/crunchy-containers/tree/master/examples/docker).

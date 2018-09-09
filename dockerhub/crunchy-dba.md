@@ -1,6 +1,6 @@
 # Crunchy DBA
 
-![](https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/images/crunchy_logo.png)
+![](https://raw.githubusercontent.com/k1ng440/crunchy-containers/master/images/crunchy_logo.png)
 
 The crunchy-dba container implements a cron scheduler. The purpose of the crunchy-dba container is to offer a way to perform simple DBA tasks that occur on some form of schedule such as backup jobs or running a vacuum on a single PostgreSQL database container.
 
@@ -12,4 +12,4 @@ See the [official documentation](https://crunchydata.github.io/crunchy-container
 
 ## Examples
 
-For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/CrunchyData/crunchy-containers/tree/master/examples/docker).
+For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/k1ng440/crunchy-containers/tree/master/examples/docker).

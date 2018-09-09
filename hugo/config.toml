@@ -25,7 +25,7 @@ enableMissingTranslationPlaceholders = false
 
 
 [params]
-editURL = "https://github.com/CrunchyData/crunchy-containers/edit/master/hugo/content/"
+editURL = "https://github.com/k1ng440/crunchy-containers/edit/master/hugo/content/"
 showVisitedLinks = false # default is false
 themeStyle = "original" # "original" or "flex" # default "flex"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
@@ -44,7 +44,7 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> <label>Github repo</label>"
 identifier = "ds"
-url = "https://github.com/CrunchyData/crunchy-containers"
+url = "https://github.com/k1ng440/crunchy-containers"
 weight = 10
 
 [[menu.shortcuts]]
@@ -55,5 +55,5 @@ weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-file'></i> <label>License</label>"
-url = "https://github.com/CrunchyData/crunchy-containers/blob/master/LICENSE.md"
+url = "https://github.com/k1ng440/crunchy-containers/blob/master/LICENSE.md"
 weight = 22

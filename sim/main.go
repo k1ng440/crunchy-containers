@@ -14,7 +14,7 @@
 package main
 
 import (
-	"github.com/crunchydata/crunchy-containers/sim/pkg/cli"
+	"github.com/k1ng440/crunchy-containers/sim/pkg/cli"
 )
 
 func main() {

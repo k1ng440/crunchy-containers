@@ -1,6 +1,6 @@
 # Crunchy <NAME>
 
-![](https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/images/crunchy_logo.png)
+![](https://raw.githubusercontent.com/k1ng440/crunchy-containers/master/images/crunchy_logo.png)
 
 General description here...
 
@@ -10,4 +10,4 @@ See the [official documentation](<LINK>) for more details regarding how the cont
 
 ## Examples
 
-For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/CrunchyData/crunchy-containers/tree/master/examples/docker).
+For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/k1ng440/crunchy-containers/tree/master/examples/docker).

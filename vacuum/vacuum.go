@@ -17,7 +17,7 @@ package main
 
 import (
 	"database/sql"
-	"github.com/crunchydata/crunchy-containers/vacuumapi"
+	"github.com/k1ng440/crunchy-containers/vacuumapi"
 	_ "github.com/lib/pq"
 	"log"
 	"os"

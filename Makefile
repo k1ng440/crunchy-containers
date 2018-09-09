@@ -1,5 +1,5 @@
 ifndef CCPROOT
-	export CCPROOT=$(GOPATH)/src/github.com/crunchydata/crunchy-containers
+	export CCPROOT=$(GOPATH)/src/github.com/k1ng440/crunchy-containers
 endif
 
 .PHONY:	all versiontest 
@@ -26,8 +26,8 @@ setup:
 
 gendeps:
 	godep save \
-	github.com/crunchydata/crunchy-containers/dba \
-	github.com/crunchydata/crunchy-containers/badger 
+	github.com/k1ng440/crunchy-containers/dba \
+	github.com/k1ng440/crunchy-containers/badger 
 
 docbuild:
 	cd $CCPROOT && ./generate-docs.sh

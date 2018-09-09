@@ -20,7 +20,7 @@ For Docker environments the crunchy-collect hostname must be specified as an env
 variable.
 
 A user may define a custom `prometheus.yml` file and mount to `/conf` for custom configuration.
-For configuration examples, see [here](https://github.com/crunchydata/crunchy-containers/blob/master/conf/prometheus).
+For configuration examples, see [here](https://github.com/k1ng440/crunchy-containers/blob/master/conf/prometheus).
 
 The following port is exposed by the crunchy-prometheus container:
 

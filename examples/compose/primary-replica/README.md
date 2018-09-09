@@ -13,7 +13,7 @@ and read replicas using the Crunchy Container image from DockerHub.
 To deploy this example, run the following commands:
 
 ```bash
-$ git clone git@github.com:CrunchyData/crunchy-containers.git
+$ git clone git@github.com:k1ng440/crunchy-containers.git
 $ cd ./crunchy-containers/examples/compose/primary-replica
 $ docker-compose up
 ```

@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/crunchydata/crunchy-containers/tools/test-harness/kubeapi"
-	"github.com/crunchydata/crunchy-containers/tools/test-harness/runner"
+	"github.com/k1ng440/crunchy-containers/tools/test-harness/kubeapi"
+	"github.com/k1ng440/crunchy-containers/tools/test-harness/runner"
 )
 
 func (h *harness) runExample(dir string, env []string, t *testing.T) (string, error) {

@@ -255,7 +255,7 @@ collecting metrics.  The PostgreSQL database to be scrapped is specified by the
 Additionally, custom queries to collect metrics can be specified by the user.  By
 mounting a *queries.yml* file to */conf* on the container, additionally metrics
 can be specified for the API to collect.  For an example of a *queries.yml* file, see
-link:https://github.com/crunchydata/crunchy-containers/blob/master/conf/collect/queries.yml[here].
+link:https://github.com/k1ng440/crunchy-containers/blob/master/conf/collect/queries.yml[here].
 
 === Environment Variables
 
@@ -295,7 +295,7 @@ For Docker environments the Crunchy Collect hostname must be specified as an env
 variable.
 
 A user may define a custom *prometheus.yml* file and mount to */conf* for custom configuration.
-For a configuration examples, see  link:https://github.com/crunchydata/crunchy-containers/blob/master/conf/prometheus[here].
+For a configuration examples, see  link:https://github.com/k1ng440/crunchy-containers/blob/master/conf/prometheus[here].
 
 === Environment Variables
 
@@ -343,7 +343,7 @@ authentication, users must specify the username and password to access Prometheu
 via environment variables.
 
 Users may define a custom *defaults.ini* file and mount to */conf* for custom configuration.
-For a configuration examples, see  link:https://github.com/crunchydata/crunchy-containers/blob/master/conf/grafana/defaults.ini[here].
+For a configuration examples, see  link:https://github.com/k1ng440/crunchy-containers/blob/master/conf/grafana/defaults.ini[here].
 
 === Environment Variables
 

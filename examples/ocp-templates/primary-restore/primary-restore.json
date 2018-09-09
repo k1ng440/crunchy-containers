@@ -11,10 +11,10 @@
             "iconClass": "icon-postgresql",
             "tags": "database,postgresql",
             "openshift.io/display-name": "Crunchy PostgreSQL Restore",
-            "openshift.io/documentation-url": "https://github.com/CrunchyData/crunchy-containers/tree/master/docs",
+            "openshift.io/documentation-url": "https://github.com/k1ng440/crunchy-containers/tree/master/docs",
             "openshift.io/long-description": "Crunchy PostgreSQL restored from pg_basebackup's created by the Crunchy Backup template.",
             "openshift.io/provider-display-name": "Crunchy Data",
-            "openshift.io/support-url": "https://github.com/CrunchyData/crunchy-containers"
+            "openshift.io/support-url": "https://github.com/k1ng440/crunchy-containers"
         }
     },
     "objects": [

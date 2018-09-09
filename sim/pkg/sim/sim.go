@@ -22,7 +22,7 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"github.com/crunchydata/crunchy-containers/sim/pkg/config"
+	"github.com/k1ng440/crunchy-containers/sim/pkg/config"
 )
 
 type PGSim struct {

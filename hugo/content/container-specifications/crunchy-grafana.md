@@ -23,7 +23,7 @@ for the web frontend. Additionally, the Prometheus hostname and port number are 
 basic authentication, users must specify the username and password to access Prometheus via environment variables.
 
 A user may define a custom `defaults.ini` file and mount to `/conf` for custom configuration.
-For configuration examples, see [here](https://github.com/crunchydata/crunchy-containers/blob/master/conf/grafana/defaults.ini).
+For configuration examples, see [here](https://github.com/k1ng440/crunchy-containers/blob/master/conf/grafana/defaults.ini).
 
 The following port is exposed by the crunchy-grafana container:
 

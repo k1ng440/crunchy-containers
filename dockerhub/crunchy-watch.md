@@ -1,6 +1,6 @@
 # Crunchy Watch
 
-![](https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/images/crunchy_logo.png)
+![](https://raw.githubusercontent.com/k1ng440/crunchy-containers/master/images/crunchy_logo.png)
 
 The crunchy-watch container essentially does a health check on a primary database container and performs a failover sequence if the primary is not reached. The watch container has access to a service account that is used inside the container to issue commands to OpenShift.
 
@@ -12,4 +12,4 @@ See the [official documentation](https://crunchydata.github.io/crunchy-container
 
 ## Examples
 
-For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/CrunchyData/crunchy-containers/tree/master/examples/docker).
+For examples regarding the use of the container, see the [official Crunchy Containers GitHub repository](https://github.com/k1ng440/crunchy-containers/tree/master/examples/docker).
